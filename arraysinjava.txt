@@ -1,0 +1,18 @@
+arrays in java
+datatype [] name = new datatype[size];// this is dynamically allocation in memory
+for primitives memory allocation in stack and for others like objects or(complex datatyes) memory allocation in heap 
+and both occurance leads to dynamically allocation 
+int []arr = new int[5];
+initialization is in heap and declaration in stack
+
+//to print
+for(int i: arr){
+	system.out.println(i);
+}
+or system.out.print(Arrays.toString(arr));
+ 
+
+strings are immutable 
+
+2-d arr
+int [][] numsMatrix = new int[n][m]; n for rows , m for columns ,, here rows size is mandatory columns 
