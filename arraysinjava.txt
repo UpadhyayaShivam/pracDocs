@@ -16,3 +16,21 @@ strings are immutable
 
 2-d arr
 int [][] numsMatrix = new int[n][m]; n for rows , m for columns ,, here rows size is mandatory columns 
+int [3][3] arr = { {1,2,3},{4,5,8},{55,5,9}};
+int [][] arr2d = new  int [2][3];
+for(int row=0; row<arr2d.length; row++){
+	for(int col=0; col<arr2d[row].length; col++){
+		arr2d[row][col] = in.nextInt();
+		}
+
+}
+here arr2d.length gives 2 and arr2d[row].length gives 3 
+
+optimizied way 
+for(int row=0; row<arr2d.length; row++){
+	system.out.print(Arrays.toString(arr2d[row]));
+}
+or
+for(int [] arr: arr2d){
+	system.out.print(Arrays.toString(arr));
+}
