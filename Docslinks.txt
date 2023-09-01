@@ -1,0 +1,23 @@
+Request-Level Authentication and Authorization With Istio and Keycloak -->
+https://dzone.com/articles/request-level-authentication-and-authorization-wit    
+
+Git Commands -->
+https://www.jointaro.com/blog/git-commands-every-engineer-should-know-stop-using-version-control-incorrectly/
+
+How To Use SQL To Analyze and Visualize Data -->
+https://dzone.com/articles/how-to-use-sql-to-analyze-and-visualize-data-1
+
+ Styling And Customizing Material UI Date Pickers -->
+https://blog.openreplay.com/styling-and-customizing-material-ui-date-pickers/
+
+Setting up a WebSocket server in Node.js  -->
+https://www.honeybadger.io/blog/websocket-node/
+
+Restful API End-To-End (E2E) Testing -->
+https://blog.openreplay.com/restful-api-end-to-end-testing/
+
+Securing Front-End Apps With CORS And CSP -->
+https://blog.openreplay.com/securing-front-end-apps-with-cors-and-csp/
+
+The Foundation of REST API: HTTP -->
+https://blog.bytebytego.com/p/the-foundation-of-rest-api-http
