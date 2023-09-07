@@ -21,3 +21,12 @@ https://blog.openreplay.com/securing-front-end-apps-with-cors-and-csp/
 
 The Foundation of REST API: HTTP -->
 https://blog.bytebytego.com/p/the-foundation-of-rest-api-http
+
+Understanding Dynamic Programming So You Can Use It Effectively
+https://hackernoon.com/understanding-dynamic-programming-so-you-can-use-it-effectively?source=rss
+
+GitHub has too many hidden features
+https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/
+
+Introducing the Identity API endpoints
+https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/
