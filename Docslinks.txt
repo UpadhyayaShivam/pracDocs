@@ -30,3 +30,20 @@ https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features
 
 Introducing the Identity API endpoints
 https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/
+
+Building a beautiful Kanban board with Node.js, React, and Websockets
+https://novu.co/blog/building-a-beautiful-kanban-board-with-node-js-react-and-websockets/
+
+React + WebSockets Project – Build a Real-Time Order Book Application
+https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/
+
+A step-by-step guide to build a real-time dashboard
+tinybird.co/blog-posts/real-time-dashboard-step-by-step
+
+Making Sense of React Server Components
+https://www.joshwcomeau.com/react/server-components/
+
+Streams and Buffers in Node.js
+https://javascript.plainenglish.io/streams-and-buffers-in-nodejs-30ff53edd50f
+
+
