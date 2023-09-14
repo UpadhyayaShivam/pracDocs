@@ -1,0 +1,4 @@
+npm -> node package manager 
+it is a command line tool to create , install and  share the packages ,, that are of javascript written for node.js.
+it includes file package.json(npm package file).it is the center of any node project as u can see it contains deatils regarding of ur project.it contians info in the form of json object that is stored in key-value pairs form. main required fields are name and version ,, u can also add additional data.
+

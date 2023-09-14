@@ -1,0 +1,20 @@
+internet protocol suites ->>
+
+<>>> first {tranport layer} it defines the way like things or data how they r going to transfer to web. handles by TCP and UDP .
+TCP gurantees that the data that sends in the form of packects to web are gong to reach its destination in the same way.it does it by acknowledging the packet once it reach the destination.
+whereas UDP is much careless regarding this thing , it is generally much careless about packets.like in vedio calling ,, it doesn't acknowledge for  lost packets.  
+
+<>>> second {internet layer} it mainly of Ipv4 Ipv6 ,, defines addresses where packets are send. everyone has ip addresses thats the place where data is transfered to web.
+
+<>>> third {application layer} it have things like HTTP , WEBSOCKETS , SSL , IMAP , POP.
+
+<--> HTTP request /response
+  client -----------------------------------------------------------------------------  server
+	-> requests                                                        response  <-
+http is hypertext transfer protocol. it is stateless means after initial request is done ,, the server client communication is lost. it just like flipping the coins after toss and result came out its done ,, for other another is make.
+client has to specifies the actions like get post put delete ,, these are like guide for the server to want response it has to be send.
+if u want to retrieve some data uses get request ,
+post request to make or add something new,
+put request to replace , and delete request for deleting .
+
+these all thing or methods/characteristics are put together in a place called header  which sent over web to tell server what has to be done or do .
