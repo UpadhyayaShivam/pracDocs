@@ -1,0 +1,11 @@
+SMTP server -- simple mail transport protocol --> it is a communnication protocol which enables to send and recieve emails.
+
+SMTP port is 587 updated,, previouslly 25 and 465. port 25 is for non-encrypted communication and 587 or 465 is for encrypted communication. 
+
+sending mail using gmail smtp server --> if we connect using SSL or TLS , we can send email to anyone inside or outside of our organization using smtp.gmail.com as our smtp server,, for this we have to authanticate with gmail or google workspace account.
+
+IMAP -- internet messaging access protocol -> messages are stored in remote server.
+
+SSL -- Secure socket layer --> it is technology to secure the communication between client and server .
+
+SMTP servers are mainly 2 types ->  outgoing and relay.
