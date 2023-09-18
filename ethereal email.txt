@@ -1,0 +1,20 @@
+ethereal email ,, it is used for testing by developers ,, means it create a fake or sandbox email environment for testing emails. 
+to check email functionality in application without spamming real email addressess.
+few libraries for this is nodemailer, mailtrap , smtp4dev , phpmailer and more.
+
+using nodemailer,,
+
+first we have to create a transporter using either smtp or other tranport mechanism.
+set up message option ,, who sends what to whom.
+delever mssg object using sendmail() method
+
+npm i nodemailer
+transporter object 
+let transporter = nodemailer.createTransport(	transport[,defaults]); 
+where ,,
+tranporter is an object  that is able to send mails
+tranport is configuration object 
+defaults  is object that defines default values for mail options
+
+
+ 
