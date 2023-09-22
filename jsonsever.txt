@@ -1,0 +1,21 @@
+json-sever ->
+get fake rest api .
+npm install -g json-server  --- for installation
+json-server --watch db.json  --- for starting json server
+json-server --watch db.json --port 3004   --- for another port by default it is 3000
+
+for random data in js file
+ 
+const randomdata =()=>{
+	const data = {users : []};
+	// create 1000 users
+	for(let i=0;i<1000;i++){
+		data.users.push({id:i ,name : `user${i}`});
+	}
+	return data;
+}
+module.exports = randomdata;
+
+http://localhost:3000/users   ,, see on this link 
+
+json-server auth
